@@ -81,7 +81,7 @@ body {
 }
 button {
     width: 46px;
-    background: none;
+    background-color: var(--card-bg);
     color: var(--buttons);
     border: 2px solid var(--buttons);
     border-radius: 0.3rem;

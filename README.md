@@ -8,4 +8,5 @@
 - CSS
 - JavaScript
 
-- [Solution]()
+- [Solution Site](https://github.com/ABQ4539/Basketball-scoreboard)
+- [Live Site](https://abq4539.github.io/Basketball-scoreboard/)
