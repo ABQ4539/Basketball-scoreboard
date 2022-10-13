@@ -24,7 +24,7 @@ input, button, textarea, select {
     font: inherit;
 }
 body {
-    background-color: var(--buttons);
+    background-image: linear-gradient(90deg, var(--card-bg), var(--buttons));
     height: 100vh;
     font-family: Cursed Timer ULiL, sans-serif;
     display: flex;
@@ -83,11 +83,11 @@ button {
     width: 46px;
     background-color: var(--card-bg);
     color: var(--buttons);
-    border: 2px solid var(--buttons);
+    border: 2px solid var(--card-bg);
     border-radius: 0.3rem;
 }
 button:hover {
     color: var(--card-bg);
     background-color: var(--buttons);
-    border: 2px solid var(--card-bg);
+    border: 2px solid var(--buttons);
 }
